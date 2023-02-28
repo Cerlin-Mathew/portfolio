@@ -72,6 +72,7 @@ form {
   input[type=submit]{
     padding: 11px 11px 11px 11px;
     border-radius: 7px;
+    margin-left: 50%;
   }
   
  
